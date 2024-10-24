@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Data Science Tools and Ecosystem\n\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# In this notebook, Data Science Tools and Ecosystem are summarized.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Lenguajes de la Ciencia de Datos\n\nAlgunos de los lenguajes más comunes utilizados en la ciencia de datos son:\n\n1. Python\n2. R\n3. SQL\n4. Java\n5. Julia\n6. Scala\n7. JavaScript\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Bibliotecas de Ciencia de Datos\n\nAlgunas bibliotecas populares utilizadas en la ciencia de datos son:\n\n1. Pandas\n2. NumPy\n3. Matplotlib\n4. Seaborn\n5. Scikit-learn\n6. TensorFlow\n7. Keras\n8. PyTorch\n9. SciPy\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Herramientas de Ciencia de Datos\n\n| Herramienta                | Descripción                                  |\n|----------------------------|----------------------------------------------|\n| Jupyter Notebook           | Entorno interactivo para escribir código y documentación. |\n| RStudio                    | Entorno de desarrollo integrado (IDE) para R. |\n| Apache Hadoop              | Marco de software para el procesamiento de grandes volúmenes de datos. |\n| Apache Spark               | Motor de análisis de datos para el procesamiento en clústeres. |\n| TensorFlow                 | Biblioteca para el aprendizaje profundo y el aprendizaje automático. |\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "\n## Objetivos de las Herramientas de la Ciencia de Datos\n\nLas herramientas de la ciencia de datos tienen varios objetivos clave que ayudan en el análisis y la interpretación de datos. Algunos de estos objetivos incluyen:\n\n1. **Análisis de Datos**: Facilitar la recopilación, limpieza y exploración de datos para descubrir patrones y tendencias.\n2. **Visualización de Datos**: Proporcionar métodos para representar datos visualmente, lo que facilita la comprensión de resultados complejos.\n3. **Modelado Predictivo**: Permitir la creación de modelos estadísticos y de machine learning para predecir resultados futuros basados en datos históricos.\n## Top 3 Lenguajes Más Importantes en Ciencia de Datos\n\n1. **Python**: Muy utilizado por su simplicidad y numerosas bibliotecas para análisis y visualización de datos.\n2. **R**: Conocido por su potente capacidad estadística y su uso en análisis de datos.\n3. **SQL**: Esencial para la manipulación y consulta de bases de datos.\n\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Ejemplos de Expresiones Aritméticas\n\nAquí hay algunos ejemplos básicos de expresiones aritméticas en Python:\n\n- **Suma**: `3 + 2` resulta en `5`\n- **Resta**: `10 - 4` resulta en `6`\n- **Multiplicación**: `7 * 3` resulta en `21`\n- **División**: `8 / 2` resulta en `4`\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "# This is a simple arithmetic expression to multiply then add integers\nresultado = (3 * 4) + 5\n\n# Mostrar el resultado\nprint(\"Resultado de la expresión (3*4)+5:\", resultado)\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": "Resultado de la expresión (3*4)+5: 17\n",
+          "output_type": "stream"
+        }
+      ],
+      "execution_count": 2
+    },
+    {
+      "cell_type": "code",
+      "source": "# This will convert 200 minutes to hours by dividing by 60\nminutos = 200\nhoras = minutos / 60\n\n# Mostrar el resultado\nprint(\"200 minutos son equivalentes a\", horas, \"horas.\")\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": "200 minutos son equivalentes a 3.3333333333333335 horas.\n",
+          "output_type": "stream"
+        }
+      ],
+      "execution_count": 3
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Autor\n\n**Gonzalo Muñoz Jara**\n",
+      "metadata": {}
+    }
+  ]
+}
